@@ -39,7 +39,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Komilov31/distributed-cut
+   git clone https://github.com/Komilov31/distributed-cut.git
    cd distributed-cut
    ```
 
